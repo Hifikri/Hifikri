@@ -12,11 +12,12 @@
 
 # 📊✍️ GitHub Stats & Random Quotes :
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hifikri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hifikri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies :
 
-![](https://github-profile-trophy.vercel.app/?username=Hifikri&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hifikri&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) <br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hifikri/Hifikri/output/pacman-contribution-graph-dark.svg">
