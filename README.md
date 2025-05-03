@@ -18,8 +18,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Hifikri&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hifikri/Hifikri/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hifikri/Hifikri/output/pacman-contribution-graph.svg">
@@ -31,3 +29,5 @@
 <img src="https://raw.githubusercontent.com/Hifikri/Hifikri/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
