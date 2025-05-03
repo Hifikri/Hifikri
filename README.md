@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+  <img width="100%" src="https://drive.google.com/file/d/1O0cqw2azZE6VREXU1uqxzZj87Pb8xwRR/view?usp=drive_link" alt="BAE SUZY">
+</p>
+
 # 👑 Hello World! I am Muhamad Fikri Abhyasa
 
 🎓 I am a Student at one of the Universities in Kuningan<br>💻 I am a Graphic Designer, UI/UX Web and Mobile Apps, and Web Developer<br>⚡ I am a Beginner
@@ -33,5 +37,8 @@
 </picture>
 
 ###
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
