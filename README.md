@@ -5,7 +5,9 @@
   <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV0OTVhczMyeXYwc3Q5cGF2eXR5MXZwc3k3bzJ1MjR0YzB4MmhpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LeXiWDWXNd8qMwrZU7/giphy.gif" alt="Bae Suzy">
 </p>
 
-🎓 I am a Student at one of the Universities in Kuningan<br>💻 I am a Graphic Designer, UI/UX Web and Mobile Apps, and Web Developer<br>⚡ I am a Beginner
+🎓 I am a student at a university in Kuningan  
+💻 I work as a Graphic Designer, UI/UX Designer for Web & Mobile Apps, and Web Developer  
+⚡ I am still learning and growing every day
 
 ## 🌐 Lets Connect With Me :
 
@@ -49,15 +51,10 @@
 ###
 
 <div align="center">
-  <P>
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-  </P>
-</div>
-
-<div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
 <div align="center">
+  <p>
       <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+  </p>
 </div>
