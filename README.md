@@ -12,7 +12,7 @@
 
 # 📊✍️ GitHub Stats & Random Quotes :
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hifikri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://quotes-github-readme.vercel.app/api?type=verticall&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hifikri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🏆 GitHub Trophies :
 
