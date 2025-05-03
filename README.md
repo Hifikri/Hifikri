@@ -1,6 +1,5 @@
-# 💫 About Me:
-
-👑 Hello World! I am Muhamad Fikri Abhyasa<br>🎓 I am a Student at one of the Universities in Kuningan<br>💻 I am a Graphic Designer, UI/UX Web and Mobile Apps, and Web Developer<br>⚡ I am a Beginner
+##👑 Hello World! I am Muhamad Fikri Abhyasa
+🎓 I am a Student at one of the Universities in Kuningan<br>💻 I am a Graphic Designer, UI/UX Web and Mobile Apps, and Web Developer<br>⚡ I am a Beginner
 
 ## 🌐 Socials:
 
@@ -12,16 +11,12 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Hifikri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hifikri&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hifikri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Hifikri&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
