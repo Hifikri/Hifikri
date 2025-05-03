@@ -2,7 +2,7 @@
   <h1>👑 Hello World! I am Muhamad Fikri Abhyasa</h1>
 </div>
 <p align="center" width="100%">
-  <img width="50%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV0OTVhczMyeXYwc3Q5cGF2eXR5MXZwc3k3bzJ1MjR0YzB4MmhpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LeXiWDWXNd8qMwrZU7/giphy.gif" alt="Bae Suzy">
+  <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV0OTVhczMyeXYwc3Q5cGF2eXR5MXZwc3k3bzJ1MjR0YzB4MmhpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LeXiWDWXNd8qMwrZU7/giphy.gif" alt="Bae Suzy">
 </p>
 
 🎓 I am a Student at one of the Universities in Kuningan<br>💻 I am a Graphic Designer, UI/UX Web and Mobile Apps, and Web Developer<br>⚡ I am a Beginner
