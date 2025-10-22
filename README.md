@@ -5,9 +5,9 @@
   <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV0OTVhczMyeXYwc3Q5cGF2eXR5MXZwc3k3bzJ1MjR0YzB4MmhpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LeXiWDWXNd8qMwrZU7/giphy.gif" alt="Bae Suzy">
 </p>
 
-🎓 I am a Fresh Graduate in Information and Communication Technology Education
-💻 I work as a Graphic Designer, UI/UX Designer for Web & Mobile Apps, and Web Developer as Frontend Web Dev  
-⚡ I am still learning and growing every day
+🎓 I am a Fresh Graduate in Information and Communication Technology Education <br>
+💻 I work as a Graphic Designer, UI/UX Designer for Web & Mobile Apps, and Web Developer as Frontend Web Dev <br>
+⚡ I am still learning and growing every day <br>
 
 ## 🌐 Lets Connect With Me :
 
