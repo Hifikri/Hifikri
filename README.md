@@ -27,15 +27,6 @@
 
 ###
 
-<div align="center">
-  <h2>🏆 GitHub Trophies :</h2>
-</div>
-<div align="center">
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Hifikri&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-  </p>
-</div>
-
 ###
 
 <picture>
